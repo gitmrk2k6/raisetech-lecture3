@@ -31,3 +31,7 @@
 いと思います。
 
 
+<img width="1512" alt="アプリケーション起動" src="https://user-images.githubusercontent.com/124783791/219845655-ed11cca9-096c-4b81-9bc7-88802886bd10.png">
+<img width="1512" alt="mysql dbサーバー" src="https://user-images.githubusercontent.com/124783791/219845668-5e56daa8<img width="1512" alt="puma apサーバー" src="https://user-images.githubusercontent.com/124783791/219845701-9f208faa-fc51-4105-90d2-16009960fdb6.png">
+-1b9b-4c3e-9311-aefdce243af6.png">
+<img width="1512" alt="sqlエラー" src="https://user-images.githubusercontent.com/124783791/219845705-621facf7-4825-403c-8010-b458358138b9.png">
